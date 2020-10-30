@@ -15,7 +15,7 @@ The purpose of this analysis is to look at key metrics of New York Citi Bike dat
     - Next we created a heat map to show which day and time of the week had the most rides. Based on this map, we can see that the most popular day and time is Thursday at 5pm. 
 - [Trips by Weekday for Each Gender](images/Trips_by_Weekday_for_Each_Gender.png)
     - In this heat map, we expanded on the Trips by Weekday for Each Hour, and included gender in the breakdown. As you can see from this heat map, Thursday at 5pm is the most popular due to a lot of males riding citi bikes during this time period. 
-- [Type of User by Gender](imgaes/User_Trips_by_Gender.png)
+- [Type of User by Gender](images/User_Trips_by_Gender.png)
     - Finally, we wanted to look at the breakdown of Usertype by gender. The two user types are Customer and Subscriber. Interestingly, there isn't much of a difference between genders for the Customer Usertype, but for the people that subscribe to citibike, males use it a lot more frequently. 
 
 For the full dashboard click the link here: [link to dashboard](https://public.tableau.com/profile/michael.armour#!/vizhome/ModuleChallenge_16040156064550/Story1?publish=yes)
